@@ -1,2 +1,2 @@
-# chanii
+# channii
 Private SNS with Laravel
